@@ -1,4 +1,4 @@
-# webapp-monitor
+# monitor
 
 Installation: 
 1. Install selenium
