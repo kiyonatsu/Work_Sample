@@ -1,0 +1,321 @@
+{
+  "tests": [
+    {
+      "service_name": "EE Gitlab",
+      "urls": [
+        {
+          "url": "https://gitlabe1.ext.net.nokia.com",
+          "title": "Gitlab",
+          "page_source_opt": "PageSourceOption.ON"
+        },
+        {
+          "url": "https://wrgitlab.int.net.nokia.com",
+          "title": "Gitlab",
+          "page_source_opt": "PageSourceOption.ON"
+        },
+        {
+          "url": "https://bhgitlab.int.net.nokia.com",
+          "title": "Gitlab",
+          "page_source_opt": "PageSourceOption.ON"
+        },
+        {
+          "url": "https://gitlabe2.ext.net.nokia.com",
+          "title": "Gitlab",
+          "page_source_opt": "PageSourceOption.ON"
+        }
+      ]
+    },
+    {
+      "service_name": "EE Quality Center",
+      "urls": [
+        {
+          "url": "https://qc12-prod.int.net.nokia.com/qcbin/start_a.jsp",
+          "title": "HPE ALM - Quality Center"
+        }
+      ]
+    },
+    {
+      "service_name": "Focal Point",
+      "urls": [
+        {
+          "url": "https://focalpoint-prod.int.net.nokia.com/fp/login",
+          "title": "Sign in"
+        }
+      ]
+    },
+    {
+      "service_name": "CSP",
+      "urls": [
+        {
+          "url": "https://crm.int.net.nokia.com",
+          "title": "NetWeaver"
+        }
+      ]
+    },
+    {
+      "service_name": "EE Gerrit",
+      "urls": [
+        {
+          "url": "https://bhgerrit.ext.net.nokia.com",
+          "title": "Gerrit",
+          "page_source_opt": "PageSourceOption.ON"
+        },
+        {
+          "url": "https://gerrite1.ext.net.nokia.com",
+          "title": "Gerrit",
+          "page_source_opt": "PageSourceOption.ON"
+        },
+        {
+          "url": "https://hzgerrit.ext.net.nokia.com",
+          "title": "Gerrit",
+          "page_source_opt": "PageSourceOption.ON"
+        },
+        {
+          "url": "https://gerrit.ext.net.nokia.com",
+          "title": "Gerrit",
+          "page_source_opt": "PageSourceOption.ON"
+        },
+        {
+          "url": "https://gerrit-frmr9sl1.int.net.nokia.com",
+          "title": "Gerrit",
+          "page_source_opt": "PageSourceOption.ON"
+        },
+        {
+          "url": "https://gerrit-mn-essl1.int.net.nokia.com",
+          "title": "Gerrit",
+          "page_source_opt": "PageSourceOption.ON"
+        },
+        {
+          "url": "https://gerrit-besl1.int.net.nokia.com",
+          "title": "Gerrit",
+          "page_source_opt": "PageSourceOption.ON"
+        },
+        {
+          "url": "https://gerrit-hzsl2.int.net.nokia.com",
+          "title": "Gerrit",
+          "page_source_opt": "PageSourceOption.ON"
+        },
+        {
+          "url": "https://gerrit-bhsl2.int.net.nokia.com",
+          "title": "Gerrit",
+          "page_source_opt": "PageSourceOption.ON"
+        },
+        {
+          "url": "https://gerrit-fpsl1.int.net.nokia.com",
+          "title": "Gerrit",
+          "page_source_opt": "PageSourceOption.ON"
+        },
+        {
+          "url": "https://gerrit-wrsl1.int.net.nokia.com",
+          "title": "Gerrit",
+          "page_source_opt": "PageSourceOption.ON"
+        },
+        {
+          "url": "https://gerrit-ulsl1.int.net.nokia.com",
+          "title": "Gerrit",
+          "page_source_opt": "PageSourceOption.ON"
+        },
+        {
+          "url": "https://gerrit-ulsl2.int.net.nokia.com",
+          "title": "Gerrit",
+          "page_source_opt": "PageSourceOption.ON"
+        },
+        {
+          "url": "https://gerrit-essl2.int.net.nokia.com",
+          "title": "Gerrit",
+          "page_source_opt": "PageSourceOption.ON"
+        }
+      ]
+    },
+    {
+      "service_name": "SCA Coverity",
+      "urls": [
+        {
+          "url": "https://escovcoord1.emea.nsn-net.net:8443/",
+          "title": "Coverity"
+        }
+      ]
+    },
+    {
+      "service_name": "Email & Calendaring",
+      "urls": [
+        {
+          "url": "https://smtp.office365.com",
+          "title": "Sign in to Outlook"
+        },
+        {
+          "url": "https://outlook.office365.com",
+          "title": "Sign in to Outlook"
+        }
+      ]
+    },
+    {
+      "service_name": "CSP",
+      "urls": [
+        {
+          "url": "https://crm.int.net.nokia.com/sap/crm_logon/default.htm",
+          "title": "CRM"
+        }
+      ]
+    },
+    {
+      "service_name": "MDC Data Quality",
+      "urls": [
+        {
+          "url": "http://dataq-prod.int.net.nokia.com:7780/",
+          "title": "DataQ Production",
+          "timeout": 45
+        }
+      ]
+    },
+    {
+      "service_name": "PLCM VMfg (SAP ME)",
+      "urls": [
+        {
+          "url": "http://sappmc.emea.nsn-net.net:50000/manufacturing",
+          "title": "User Management"
+        },
+        {
+          "url": "http://sappmf.emea.nsn-net.net:50000/manufacturing/index.jsp",
+          "title": "User Management"
+        }
+      ]
+    },
+    {
+      "service_name": "NFS (Group Reporting)",
+
+      "urls": [
+        {
+          "url": "https://nfs-rep-prod.int.net.nokia.com/workspace/index.jsp",
+          "title": "Oracle Enterprise"
+        }
+      ]
+    },
+    {
+      "service_name": "EE DOORS",
+      "urls": [
+        {
+          "url": "https://citrixapps.int.net.nokia.com/",
+          "title": "Citrix XenApp"
+        }
+      ]
+    },
+    {
+      "service_name": "Labman",
+      "urls": [
+        {
+          "url": "https://labman.int.net.nokia.com/labman/index.cfm",
+          "title": "Labman",
+          "timeout": 20
+        }
+      ]
+    },
+    {
+      "service_name": "CDB",
+      "urls": [
+        {
+          "url": "https://cdbprod.int.net.nokia.com/",
+          "title": "CDB"
+        }
+      ]
+    },
+    {
+      "service_name": "EE Doors Next",
+      "urls": [
+        {
+          "url": "https://dn-prod.ext.net.nokia.com",
+          "title": "IBM HTTP Server"
+        },
+        {
+          "url": "https://dn-qa.ext.net.nokia.com",
+          "title": "IBM HTTP Server"
+        }
+      ]
+    },
+    {
+      "service_name": "External Jira and Confluence",
+      "urls": [
+        {
+          "url": "https://itatlas.ext.net.nokia.com/jira/secure/Dashboard.jspa",
+          "title": "Nokia Request Portal"
+        },
+        {
+          "url": "https://itatlas.ext.net.nokia.com/confluence/plugins/servlet/sso-logout",
+          "title": "Nokia Collaboration Portal"
+        }
+      ]
+    },
+    {
+      "service_name": "LEA-Archive",
+      "urls": [
+        {
+          "url": "https://live.archive.nsn.com/technical/TCP.aspx",
+          "title": "Login"
+        },
+        {
+          "url": "https://live.archive.nsn.com/commercial/TCP.aspx",
+          "title": "Login"
+        },
+        {
+          "url": "https://live-lea-webviewer.access.nsn.com/WebViewer/",
+          "title": "Home"
+        },
+        {
+          "url": "http://live-lea-webviewer.access.nsn.com:8181/WebViewer/",
+          "title": "Home"
+        },
+        {
+          "url": "https://test.archive.nsn.com/commercial/TCP.aspx",
+          "title": "Nokia Siemens Network"
+        },
+        {
+          "url": "https://test.archive.nsn.com/technical/TCP.aspx",
+          "title": "Nokia Siemens Network"
+        },
+        {
+          "url": "https://test-lea-webviewer.access.nsn.com/WebViewer/",
+          "title": "Home"
+        },
+        {
+          "url": "http://test-lea-webviewer.access.nsn.com:8181/WebViewer/",
+          "title": "Home"
+        },
+        {
+          "url": "http://muleaan003.nsn-intra.net/OTCS/livelink.exe?func=llworkspace",
+          "title": "OpenText"
+        }
+      ]
+    },
+    {
+      "service_name": "eDMS - Enterprise document Mgt solution",
+      "urls": [
+        {
+          "url": "http://fr712wlea001.zeu.alcatel-lucent.com:8080/w3monc/",
+          "title": "Monitor Web Client"
+        },
+        {
+          "url": "https://ecm-edms-portal-prod.app.alcatel-lucent.com:8443/opentextdocumentarchiving_v1/services/opentextdocumentarchiving_v1",
+          "title": "Web Services"
+        }
+      ]
+    },
+    {
+      "service_name": "OurTalent",
+      "urls": [
+        {
+          "url": "https://nokia.taleo.net",
+          "title": "Legal Agreement"
+        }
+      ]
+    },
+    {
+      "service_name": "Off Cycle Compensation Management Tool",
+      "urls": [
+        {
+          "url": "https://occ.ext.net.nokia.com",
+          "title": "Sign in to your account"
+        }
+      ]
+    }
+  ]
+}

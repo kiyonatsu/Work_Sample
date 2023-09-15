@@ -1,0 +1,115 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# C extensions
+*.so
+
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+.tox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+
+# Translations
+*.mo
+
+# Mr Developer
+.mr.developer.cfg
+.project
+.pydevproject
+
+# Rope
+.ropeproject
+
+# Django stuff:
+*.log
+*.pot
+
+# Sphinx documentation
+docs/_build/
+
+.idea/
+
+# Environment
+venv/
+
+# Password check
+# src/password_check
+
+# Add screenshot to Namp
+src/test_script/admin_utilities/*
+
+# blue planet tc file
+conf/testcomplete/blue_planet/blue_planet/blue_planet/Log/*
+conf/testcomplete/blue_planet/blue_planet/blue_planet.tcCfgExtender
+!conf/testcomplete/blue_planet/blue_planet/blue_planet/Log/.gitkeep
+
+# eeq tc file
+conf/testcomplete/ee_quality_center/ee_quality_center.tcCfgExtender
+conf/testcomplete/ee_quality_center/ee_quality_center/Log/*
+!conf/testcomplete/ee_quality_center/ee_quality_center/Log/.gitkeep
+
+#eeq client
+conf/testcomplete/eeq_client/eeq_client/Log/*
+conf/testcomplete/eeq_client/eeq_client.tcCfgExtender
+!conf/testcomplete/eeq_client/eeq_client/Log/.gitkeep
+
+# vega espare
+conf/testcomplete/vega_espare/vega_espare/Log/*
+conf/testcomplete/vega_espare/vega_espare.tcCfgExtender
+!conf/testcomplete/vega_espare/vega_espare/Log/.gitkeep
+
+# Service BW
+conf/testcomplete/service_bw/service_bw/Log/*
+conf/testcomplete/services_bw/service_bw.tcCfgExtender
+!conf/testcomplete/service_bw/service_bw/Log/.gitkeep
+
+# BW Platform
+conf/testcomplete/bw_platform/bw_platform/Log/*
+!conf/testcomplete/bw_platform/bw_platform/Log/.gitkeep
+conf/testcomplete/bw_platform/bw_platform.tcCfgExtender
+
+#SAP Ebox
+conf/testcomplete/ebox/ebox/Log/*
+conf/testcomplete/ebox/ebox.tcCfgExtender
+!conf/testcomplete/ebox/ebox/Log/.gitkeep
+
+#SAP P20
+conf/testcomplete/sap_p20/sap_p20/Log/*
+conf/testcomplete/sap_p20/sap_p20.tcCfgExtender
+conf/testcomplete/sap_p20/sap_p20/Log/.gitkeep
+
+#SAP P20
+conf/testcomplete/yellow_stone/yellow_stone/Log/*
+conf/testcomplete/yellow_stone/yellow_stone.tcCfgExtender
+conf/testcomplete/yellow_stone/yellow_stone/Log/.gitkeep
+
+#blue_prism
+conf/testcomplete/blue_prism/blue_prism/Log/*
+conf/testcomplete/blue_prism/blue_prism.tcCfgExtender
+conf/testcomplete/blue_prism/blue_prism/Log/.gitkeep
+
+#SAP P65
+conf/testcomplete/sap_p65/sap_p65/Log/*
+conf/testcomplete/sap_p65/sap_p65.tcCfgExtender
+conf/testcomplete/sap_p65/sap_p65/Log/.gitkeep
